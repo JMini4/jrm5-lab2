@@ -1,4 +1,5 @@
-/*                                                                              * Name: Julia Mini                                        
+/*
+ * Name: Julia Mini
  *
  * Lab: Thursday 1- 4
  */
